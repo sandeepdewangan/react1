@@ -1,0 +1,26 @@
+.pizza {
+  display: flex;
+}
+
+.pizza-description {
+  margin-left: 10px;
+}
+
+.pizza-title {
+  font-size: 18px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.sold-out {
+  color: gray;
+}
+.sold-out img {
+  opacity: 0.3;
+  filter: alpha(opacity=40);
+}

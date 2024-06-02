@@ -1,0 +1,7 @@
+h2 {
+  display: inline;
+  font-size: 25px;
+  letter-spacing: 2px;
+  border-top: 4px dotted rgb(17, 17, 119);
+  border-bottom: 4px dotted rgb(17, 17, 119);
+}
