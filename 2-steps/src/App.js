@@ -11,10 +11,10 @@ export default function App() {
   const [step, setState] = useState(1);
 
   function handlePreviousBtnClick() {
-    if (step > 1) setState(step - 1);
+    if (step > 1) setState((steo) => step - 1);
   }
   function handleNextBtnClick() {
-    if (step < 3) setState(step + 1);
+    if (step < 3) setState((steo) => step + 1);
   }
 
   return (
