@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+li {
+  font-size: 25px;
+  list-style-type: none;
+}
+.cross-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.packed {
+  text-decoration: line-through;
+}
