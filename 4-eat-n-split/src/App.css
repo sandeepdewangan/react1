@@ -1,0 +1,63 @@
+.App {
+  display: flex;
+  margin: 0 auto;
+  font-family: sans-serif;
+  margin: 10px 10px;
+}
+.friends-area {
+  background-color: white;
+  margin-right: 10px;
+}
+.bill-area {
+  background-color: rgb(239, 218, 190);
+  padding: 15px 15px;
+}
+.friend {
+  display: flex;
+  padding: 10px 10px;
+  border: 1px solid gray;
+  margin-bottom: 5px;
+}
+
+.fr-img {
+  width: 70px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.fr-select button {
+  color: black;
+  border: none;
+  background-color: orange;
+  height: 20px;
+}
+
+.fr-p {
+  color: green;
+  font-weight: bold;
+}
+
+.h4-head {
+  padding: 0;
+  margin: 2px 0;
+}
+
+.form {
+  margin: 18px 0;
+}
+
+.add-button {
+  color: black;
+  border: none;
+  background-color: greenyellow;
+  height: 30px;
+  font-weight: bold;
+}
+
+.split-button {
+  color: white;
+  border: none;
+  background-color: rgb(225, 83, 32);
+  height: 30px;
+  font-weight: bold;
+}
