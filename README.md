@@ -72,7 +72,9 @@ function Message(props) {
   ### Create app - three ways
   
   - create-react-app - don't use for real world apps.
+  
   - vite
+  
   - using framework like next.js
     
     ### create-react-app
@@ -125,8 +127,6 @@ root.render(
 
 Chrome Dev Tools
 
-
-
 ## State, Events and Forms
 
 ### Children prop
@@ -143,3 +143,23 @@ export default function TabButton({ children }) {
   );
 }
 ```
+
+## How React Works? (INCOMPLETE)
+
+### Component vs Instance vs Element
+
+### Component and Instance
+
+1. Instances are created whenever we use components.
+
+        eg. `<App />`
+
+2. React internally calls `App()`
+
+3. Has a lifecycle can be born, live and die.
+
+4. Has its own state and props.
+
+
+
+<img title="" src="./img/img1.png" alt="">
