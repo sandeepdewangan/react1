@@ -1,0 +1,11 @@
+.layout{
+    display: flex;
+}
+.sidebar{
+    width: 400px;
+    background-color: azure;
+}
+.map{
+    width: 700px;
+    background-color: azure;
+}

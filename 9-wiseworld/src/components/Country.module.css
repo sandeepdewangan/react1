@@ -1,0 +1,10 @@
+.country {
+  background-color: antiquewhite;
+  margin-top: 10px;
+}
+
+.country button {
+  font-size: 12px;
+  border: none;
+  background-color: antiquewhite;
+}

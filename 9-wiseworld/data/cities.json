@@ -1,0 +1,60 @@
+{
+  "cities": [
+    {
+      "cityName": "Phuket",
+      "country": "Thailand",
+      "emoji": "https://flagcdn.com/w40/th.png",
+      "position": {
+        "lat": 7.878978,
+        "lng": 98.398392
+      },
+      "date": "2022-04-08",
+      "id": "101"
+    },
+    {
+      "cityName": "Moscow",
+      "country": "Russia",
+      "emoji": "https://flagcdn.com/w40/ru.png",
+      "position": {
+        "lat": 55.751244,
+        "lng": 37.618423
+      },
+      "date": "2023-07-13",
+      "id": "102"
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "https://flagcdn.com/w40/fr.png",
+      "position": {
+        "lat": 48.864716,
+        "lng": 2.349014
+      },
+      "date": "2024-09-25",
+      "id": "103"
+    },
+    {
+      "cityName": "Bangkok",
+      "country": "Thailand",
+      "emoji": "https://flagcdn.com/w40/th.png",
+      "position": {
+        "lat": 7.878978,
+        "lng": 98.398392
+      },
+      "date": "2025-04-08",
+      "id": "104"
+    },
+    {
+      "id": "1a5d",
+      "cityName": "Prezza",
+      "country": "Italy",
+      "emoji": "https://flagcdn.com/w40/in.png",
+      "notes": "Awesome place",
+      "position": {
+        "lat": "42.07482055946275",
+        "lng": "13.838400388787933"
+      },
+      "date": "2024-06-19T13:46:11.000Z"
+    }
+  ]
+}

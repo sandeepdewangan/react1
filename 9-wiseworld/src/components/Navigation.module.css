@@ -1,0 +1,9 @@
+.nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.nav :global(.active){
+    background-color: wheat;
+}

@@ -1,0 +1,12 @@
+* {
+  font-size: 18px;
+  margin: 0 5px;
+}
+.homepage {
+  font-size: 18px;
+}
+.homepage h1 {
+  color: green;
+  font-weight: bold;
+  text-decoration: underline;
+}

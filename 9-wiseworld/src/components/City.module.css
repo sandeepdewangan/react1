@@ -1,0 +1,14 @@
+.city {
+  background-color: antiquewhite;
+  margin-top: 10px;
+}
+
+.city button {
+  font-size: 12px;
+  border: none;
+  background-color: antiquewhite;
+}
+
+.city-active {
+  font-weight: bold;
+}
