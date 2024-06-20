@@ -1,5 +1,7 @@
 # React
 
+
+
 ## Important Points
 
 #### We should always update the state based on current state.
@@ -160,6 +162,8 @@ export default function TabButton({ children }) {
 
 4. Has its own state and props.
 
-
-
 <img title="" src="./img/img1.png" alt="">
+
+
+
+## 

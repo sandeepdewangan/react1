@@ -1,0 +1,6 @@
+button {
+  border: 1px solid black;
+  margin-left: 25px;
+  background-color: rgb(245, 138, 138);
+  width: 50px;
+}
