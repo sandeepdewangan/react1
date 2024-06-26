@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reusing components using Tailwind */
+/* just use input class to see effect */
+@layer components {
+  .input {
+    @apply px-2 py-1 rounded-full focus:outline-none focus:ring-1 focus:ring-orange-500;
+  }
+}
