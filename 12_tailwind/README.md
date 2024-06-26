@@ -91,4 +91,4 @@ Apply font-sans to the body of html.
 
 ### Demo
 
-<img src="tailwind.gif" />
+<img src="tailwind.gif" width="500px"/>
